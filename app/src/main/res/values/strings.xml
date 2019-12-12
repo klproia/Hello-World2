@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Enter your name</string>
+    <string name="footer">This is the footer</string>
+    <string name="account">Create Account</string>
+    <string name="name">Your Name</string>
+    <string name="date">Enter the date</string>
+    <string name="enter_your_name">enter your name</string>
+    <string name="enter_email_address">enter email address</string>
+    <string name="phone_number">enter your phone number</string>
+    <string name="get_started"> To get started create an account</string>
+</resources>
